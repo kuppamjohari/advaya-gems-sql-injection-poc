@@ -110,7 +110,8 @@ python GEMS_POC.py
 ## References
 
 - [OWASP SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
-
+- Watch the PoC video: [SQL Injection Vulnerability in Advaya GEMS ERP Portal](https://www.youtube.com/watch?v=bs6WT-zCAmo)
+  [![Video Thumbnail](https://img.youtube.com/vi/bs6WT-zCAmo/0.jpg)](https://www.youtube.com/watch?v=bs6WT-zCAmo)
 ---
 
 ## CVE Status
