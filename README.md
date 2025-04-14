@@ -49,8 +49,6 @@ userId=testCSC2024' AND 4601=4601-- KCOJ&password=testCSC2024
 
 - **Data Exposure**: Read sensitive data from databases
 - **Data Manipulation**: Insert, update, or delete records
-- **Privilege Escalation**: Gain unauthorized access
-- **Server Compromise**: Potential full system breach
 
 ---
 
