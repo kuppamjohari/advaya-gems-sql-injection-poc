@@ -117,7 +117,7 @@ python GEMS_POC.py
 - Not yet assigned
 - Submitted to:
   - Advaya Softech (Disclosure Contact Pending)
-  - CNA for CVE assignment (Pending)
+  - CVE assignment (Pending)
 
 ---
 
